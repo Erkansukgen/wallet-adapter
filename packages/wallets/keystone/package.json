@@ -33,7 +33,7 @@
         "@solana/web3.js": "^1.58.0"
     },
     "dependencies": {
-        "@keystonehq/sol-keyring": "^0.3.0",
+        "@keystonehq/sol-keyring": "^0.16.2",
         "@solana/wallet-adapter-base": "workspace:^"
     },
     "devDependencies": {
